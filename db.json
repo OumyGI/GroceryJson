@@ -1,0 +1,7 @@
+{
+"categories":[
+        {"id":1,"title":"categorie 1","description": "this is description 1"},
+         {"id":2,"title":"categorie 2","description": "this is description 2"},
+          {"id":3,"title":"categorie 3","description": "this is description 3"}
+]
+}
