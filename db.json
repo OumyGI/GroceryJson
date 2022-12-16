@@ -1,7 +1,1 @@
-{
-"categories":[
-        {"id":1,"title":"categorie 1","img": "https://github.com/OumyGi/GroceryJson/blob/main/reduc1.jpg"},
-         {"id":2,"title":"categorie 2","img": "https://github.com/OumyGi/GroceryJson/blob/main/reduc1.jpg"},
-          {"id":3,"title":"categorie 3","img": "https://github.com/OumyGi/GroceryJson/blob/main/reduc1.jpg"}
-]
-}
+[{"ref_cmd":"AG56596","delai_livraison":null,"etat_cmd":null,"date_cmd":null,"nbItems":0,"client":null,"lignesCommandes":[],"address_Livraison":null,"montant_cmd":0.0,"itemProcessed":false}]
