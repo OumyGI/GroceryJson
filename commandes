@@ -3,4 +3,9 @@
  "etat_cmd":null,
  "nbItems":0,
    "montant_cmd":0.0,
+   "itemProcessed":false},
+     {"ref_cmd":"AD456596",
+ "etat_cmd":null,
+ "nbItems":0,
+   "montant_cmd":0.0,
    "itemProcessed":false}]
